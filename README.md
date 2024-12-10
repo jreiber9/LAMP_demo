@@ -54,4 +54,6 @@ If the project requires database functionality, follow these steps to set up the
    - Enter a name for the database: `my_references`.
    - Click **Create**.
 
+
+[References Database Screenshot](img/references table.png?raw=true "Screenshot")
 > **Note**: The database should have a table named `references`. You can refer to the attached screenshot of the database structure for guidance.
