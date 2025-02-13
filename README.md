@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 Clone or download the project from the GitHub repository:
 
-- GitHub Repository: [LAMP Demo](https://github.com/your-repo-link)
+- GitHub Repository: [LAMP Demo](https://github.com/LAMP_demo)
 
 ### 2. Download and Install MAMP
 
